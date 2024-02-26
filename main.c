@@ -14,7 +14,7 @@ int main(void)
 	do {
 		if (isatty(STDIN_FILENO) == 1)
 		{
-			printf("#cisfun$ ");
+			printf("#Danishell$ ");
 			line = read_line();
 		}
 		else
