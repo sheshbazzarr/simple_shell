@@ -34,6 +34,6 @@ int _change(char *s)
 		d++;
 	}
 	nio *= min;
-	return (ni);
+	return (nio);
 }
 /* change the course */
